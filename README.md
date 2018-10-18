@@ -1,4 +1,6 @@
 
+# 《Spring Cloud Eureka Server高可用之：在线扩容》
+
 ![Profile](https://upload-images.jianshu.io/upload_images/9824247-c5fa3fe2a839cb4f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 > 本文共 1329字，阅读大约需要 6分钟 ！
