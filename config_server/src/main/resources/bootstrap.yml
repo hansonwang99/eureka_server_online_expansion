@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/hansonwang99/spring_cloud_config_for_eureka_server_online_expansion
+          username: hansonwang99
+          password: XXXXXX
+
+
+server:
+  port: 1115
